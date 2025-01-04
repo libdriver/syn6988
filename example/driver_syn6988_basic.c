@@ -40,7 +40,7 @@ static syn6988_handle_t gs_handle;        /**< syn6988 handle */
 
 /**
  * @brief     basic example init
- * @param[in] interface is the chip interface
+ * @param[in] interface chip interface
  * @return    status code
  *            - 0 success
  *            - 1 init failed
@@ -131,7 +131,7 @@ uint8_t syn6988_basic_init(syn6988_interface_t interface)
 
 /**
  * @brief     basic example synthesis
- * @param[in] fmt is the format data
+ * @param[in] fmt format data
  * @return    status code
  *            - 0 success
  *            - 1 synthesis failed
