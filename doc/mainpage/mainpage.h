@@ -1,10 +1,10 @@
 /**
  * @mainpage  LibDriver SYN6988
- * @brief     LibDriver SYN6988 is a full function driver of SYN6988 and it can run in both MCU and Linux platform.
+ * @brief     LibDriver SYN6988 is a full-featured driver of SYN6988 and it can run in both MCU and Linux platform.
  * @version   1.0.0
  * @author    Shifeng Li
  *
- * <h3>history</h3>
+ * <h3>History</h3>
  * <table>
  * <tr><th>Date        <th>Version  <th>Author      <th>Description
  * <tr><td>2024/08/30  <td>1.0      <td>Shifeng Li  <td>first upload
