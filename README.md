@@ -10,7 +10,7 @@
 
 SYN6988 chip is a high-end Chinese English speech synthesis chip newly launched by Beijing Yuyin Tianxia Technology Co., Ltd. in 2021. SYN6988 receives text data to be synthesized through UART or SPI interface communication, achieving text to speech (or TTS speech) conversion. The latest SYN6988 Chinese speech synthesis chip launched by the company inherits the excellent features of SY6658 high-end Chinese speech synthesis chip: small-sized patch packaging, simple hardware interface, low power consumption, clear and round sound, close to human voice, and extremely high cost-effectiveness; In addition, SYN6988 has added English text parsing and English sound library, making it a truly high-end industry oriented Chinese English speech synthesis chip. The SYN6988 chip is fully compatible with the SYN6658 chip in terms of hardware and communication interfaces.
 
-LibDriver SYN6988 is a full-featured driver of SYN6988 launched by LibDriver.It provides text synthesis, sound synthesis and other functions. LibDriver is MISRA compliant.
+LibDriver SYN6988 is a full-featured driver for SYN6988, launched by LibDriver.It provides text synthesis, sound synthesis and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 

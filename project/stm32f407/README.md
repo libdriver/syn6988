@@ -62,7 +62,7 @@ We use '\n' to wrap lines.If your serial port assistant displays exceptions (e.g
    syn6988 (-p | --port)
    ```
 
-5. Run syn6988 synthesis test.
+4. Run syn6988 synthesis test.
 
    ```shell
    syn6988 (-t syn | --test=syn) --interface=<uart | spi> 
