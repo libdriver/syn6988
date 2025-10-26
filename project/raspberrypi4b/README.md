@@ -105,7 +105,7 @@ Each command will sent a sleep command to the chip, but raspberry can't run wake
    syn6988 (-p | --port)
    ```
 
-5. Run syn6988 synthesis test.
+4. Run syn6988 synthesis test.
 
    ```shell
    syn6988 (-t syn | --test=syn) --interface=<uart | spi> 
